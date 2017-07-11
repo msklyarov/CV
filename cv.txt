@@ -8,7 +8,7 @@ GitHub profile: https://github.com/msklyarov
 
 Objectives:
 
-To find Node.js/fullstack developer position that would utilize
+To find remote Node.js/fullstack developer position that would utilize
  my skills in JavaScript/node.js/ReactJS/AngularJS/Redux
  (MERN/MEAN stack) development.
 
