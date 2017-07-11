@@ -8,9 +8,9 @@ GitHub profile: https://github.com/msklyarov
 
 Objectives:
 
-To find Node.js/fullstack developer position that
- would utilize my skills in JavaScript/node.js/ReactJS/AngularJS/Redux
-(MERN/MEAN stack) development.
+To find Node.js/fullstack developer position that would utilize
+ my skills in JavaScript/node.js/ReactJS/AngularJS/Redux
+ (MERN/MEAN stack) development.
 
 Summary:
 
@@ -59,7 +59,7 @@ Projects:
 May 2017 - Now
 JavaScript Developer | Freelancer, Upwork
 
-Developement of ReactJS/Redux application for online testing.
+Development of ReactJS/Redux application for online examinations.
 
 * node.js, Express, ReactJS/Redux, StripeAPI, CasperJS, MongoDB
 
@@ -67,7 +67,7 @@ Developement of ReactJS/Redux application for online testing.
 May 2014 - May 2017
 ASP.NET MVC/Fullstack Developer | Access Softek, Inc
 
-Developement of Admin tool part of Orpheus online banking system:
+Development of Admin tool part of Orpheus online banking system:
 http://orpheusbanking.com/
 
 * C#, ASP.NET MVC, WCF, MS SQL, LINQ, JavaScript, jQuery,
