@@ -140,7 +140,8 @@ https://afterlogic.com/webmail-client
 April 2005 - January 2006
 EDMS developer | JSC TerraLink / KPO b.v.
 
-Development of Intranet applications.
+Development of Intranet applications linked to EDMS
+(Electronic Document Management System).
 
 * ASP/ASP.NET, VB, Crystal Reports, MS SQL,
 Hummingbird Document Management System
