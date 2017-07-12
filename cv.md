@@ -12,6 +12,8 @@ Location: Russia, Taganrog (UTC+3, Moscow timezone)
 
 GitHub profile: https://github.com/msklyarov
 
+LinkedIn: https://www.linkedin.com/in/maxim-sklyarov-8b882489/
+
 #### Objectives:
 
 To find a remote Node.js/fullstack developer position that would utilize
