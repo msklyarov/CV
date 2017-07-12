@@ -3,9 +3,13 @@
 #### Maxim Sklyarov
 
 Email: sklyarov.ma(at)gmail.com
+
 Skype: maxim.athome
+
 Phone/WhatsApp/Viber/Telegram: +7 908 1769006 
+
 Location: Russia, Taganrog (UTC+3, Moscow timezone)
+
 GitHub profile: https://github.com/msklyarov
 
 #### Objectives:
