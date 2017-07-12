@@ -142,7 +142,7 @@ http://www.loveanddragonsgame.com/
 * iOS, Android, C++, cocos2d-x, STL, JSON, OpenGL
 ```
 ```
-April 2006 - 2012
+April 2006 - January 2013
 Software Developer | Afterlogic Corp.
 
 Development of MailBee.NET Objects (e-mail API) library.
