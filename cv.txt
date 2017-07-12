@@ -81,7 +81,7 @@ CSS, Telerik Kendo UI Controls JS/MVC, NUnit, IIS
 
 ------------------------------------------------------------
 August 2016 - December 2016
-JavaScript Developer | Freelancer
+JavaScript Developer | Freelance
 
 Scraping, ETL of online betting sites with NightmareJS.
 

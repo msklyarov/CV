@@ -92,7 +92,7 @@ CSS, Telerik Kendo UI Controls JS/MVC, NUnit, IIS
 ```
 ```
 August 2016 - December 2016
-JavaScript Developer | Freelancer
+JavaScript Developer | Freelance
 
 Scraping, ETL of online betting sites with NightmareJS.
 
@@ -104,8 +104,7 @@ Web Developer | NJQ & Associates
 
 Development of accounting system.
 
-* JavaScript, PHP, Symfony (MVC), Doctrine (ORM), TWIG,
-PHPUnit, Bootstrap
+* JavaScript, PHP, Symfony (MVC), Doctrine (ORM), TWIG, PHPUnit, Bootstrap
 ```
 ```
 October 2015 - January 2016
@@ -114,8 +113,7 @@ Web Developer | FV
 Development of the dashboard with a business analytics for the online
 markets integration using ETL (eBay, Amazon, etc.)
 
-* JavaScript/ES6, jQuery, AngularJS, PHP Zend Framework,
-WebAPI, REST
+* JavaScript/ES6, jQuery, AngularJS, PHP Zend Framework, WebAPI, REST
 ```
 ```
 November 2013 - January 2014
@@ -124,8 +122,7 @@ Web Developer | TM Automatica
 Development of online e-commerce system for cinema tickets ordering.
 https://www.tmavt.ru/cinema/tm-cinema-view/
 
-* C#, LINQ, ASP.NET MVC, Entity Framework, JavaScript,
-jQuery, CSS, MS SQL, WebAPI, REST, IIS
+* C#, LINQ, ASP.NET MVC, Entity Framework, JavaScript, jQuery, CSS, MS SQL, WebAPI, REST, IIS
 ```
 ```
 January 2013 - April 2014
@@ -160,8 +157,7 @@ EDMS developer | TerraLink / KPO b.v.
 Development of Intranet applications linked to EDMS
 (Electronic Document Management System).
 
-* ASP/ASP.NET, VB, Crystal Reports, MS SQL,
-Hummingbird Document Management System
+* ASP/ASP.NET, VB, Crystal Reports, MS SQL, Hummingbird Document Management System
 ```
 ```
 October 2004 - April 2005
