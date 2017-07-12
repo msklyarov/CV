@@ -44,9 +44,13 @@ Operating systems: Linux, Windows, Mac OS X, Android, iOS, FreeBSD, Solaris
  * HTML, CSS, Bootstrap
 
 Source control systems: GIT, SVN/CVS, MS Visual SourceSafe
+
 DBMS: MongoDB, MySQL, MS SQL Server
+
 Web Server Administration: Apache, Nginx, IIS
+
 Agile tools: JIRA, Redmine.
+
 Cloud platforms: Heroku, AWS Lambda
 
 #### Other skills:
