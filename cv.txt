@@ -9,7 +9,7 @@ GitHub profile: https://github.com/msklyarov
 Objectives:
 
 To find remote Node.js/fullstack developer position that would utilize
- my skills in JavaScript/node.js/ReactJS/AngularJS/Redux
+ my skills in JavaScript/node.js/(REST??)ReactJS/AngularJS/Redux
  (MERN/MEAN stack) development.
 
 Summary:
@@ -18,27 +18,34 @@ More than 18 years of successfull development of websites,
 database applications, APIs development and integration,
 desktop applications and mobile games.
 
-It's important to me to pay attention to details of the task and write clear,
-reliable and nice-looking code.
+It's important to me to finish tasks in time, pay attention to the
+details of the task and write clear, reliable and nice-looking code.
 I always use best practices and test my work carefully and thoroughly.
+I familiar with "code review" and "unit test coverage of a code"  techniques.
 I have a lot of experience of working with Agile methodology with JIRA and Redmine.
 
 Technologies:
 
 Operating systems: Linux, Windows, Mac OS X, Android, iOS, FreeBSD, Solaris
 Software languages:
- * JavaScript (jQuery, ReactJS, Redux, AngularJS, Telerik Kendo UI Controls)
- * node.js (Express,  StripeAPI, NightmareJS, CasperJS)
- * C# (LINQ, .NET Framework, ASP.NET MVC, WCF, Platron payment processing system)
+ * JavaScript[strong knowlege] (jQuery, ReactJS, Redux, AngularJS, Telerik Kendo UI Controls)
+ * node.js[strong knowlege] (Express,  StripeAPI, NightmareJS, CasperJS)
+ * C#[strong knowlege] (LINQ, .NET Framework, ASP.NET MVC, WCF, Platron payment processing system)
  * C++ (STL, cocos2d-x, OpenGL)
- * PHP (Symfony, Doctrine, PHPUnit, Zend Framework, CURL)
- * SQL (MySQL, MS SQL)
+ * PHP[strong knowlege] (Symfony, Doctrine, PHPUnit, Zend Framework, CURL)
+ * SQL[strong knowlege] (MySQL, MS SQL)
  * Perl, Java
  * HTML, CSS, Bootstrap
 Libraries/Frameworks: , 
-Source control systems: GIT, SVN/CVS, Microsoft Visual SourceSafe
+Source control systems: GIT, SVN/CVS, MS Visual SourceSafe
 DBMS: MongoDB, MySQL, MS SQL Server
 Web Server Administration: Apache, Nginx, IIS
+Agile tools: JIRA, Redmine.
+Cloud platforms: Heroku, AWS Lambda
+
+Other skills:
+ * Blind method of keyboard typing (both in Cyrillic and Latin keyboard layout)
+
 
 Certifications:
 
@@ -61,7 +68,7 @@ JavaScript Developer | Freelancer, Upwork
 
 Development of ReactJS/Redux application for online examinations.
 
-* node.js, Express, ReactJS/Redux, StripeAPI, CasperJS, MongoDB
+* node.js, Express, ReactJS/Redux, StripeAPI, CasperJS, MongoDB, Heroku
 
 ------------------------------------------------------------
 May 2014 - May 2017
@@ -71,13 +78,13 @@ Development of Admin tool part of Orpheus online banking system:
 http://orpheusbanking.com/
 
 * C#, ASP.NET MVC, WCF, MS SQL, LINQ, JavaScript, jQuery,
-CSS, Telerik Kendo UI Controls JS/MVC, IIS
+CSS, Telerik Kendo UI Controls JS/MVC, NUnit, IIS
 
 ------------------------------------------------------------
 August 2016 - December 2016
 JavaScript Developer | Freelancer
 
-Scraping of online betting sites with NightmareJS.
+Scraping, ETL of online betting sites with NightmareJS.
 
 * node.js, NightmareJS, jQuery, MongoDB
 
@@ -94,8 +101,8 @@ PHPUnit, Bootstrap
 October 2015 - January 2016
 Web Developer | FV
 
-Development of the dashboard with a statistic for the online
-markets integration (ebay, amazon, etc.)
+Development of the dashboard with a business analitics for the online
+markets integration using ETL (ebay, amazon, etc.)
 
 * JavaScript/ES6, jQuery, AngularJS, PHP Zend Framework,
 WebAPI, REST
@@ -104,7 +111,7 @@ WebAPI, REST
 November 2013 - January 2014
 Web Developer | TM Automatica
 
-Development of online web selling system for cinema tickets ordering.
+Development of online e-commerce system for cinema tickets ordering.
 https://www.tmavt.ru/cinema/tm-cinema-view/
 
 * C#, LINQ, ASP.NET MVC, Entity Framework, JavaScript,
@@ -171,13 +178,15 @@ November 2000 - October 2002
 Software Developer | Software Technologies
 
 Development of ESRI RouteMap IMS (Internet Mapping System):
+http://www.esri.com/routemapims
 
-* C++, Java, IIS
+* C++, MFC, WinAPI, Java, Swing, ASP(JavaScript), IIS
 
 ------------------------------------------------------------
 June 1998 - November 2000
 Software Developer | Taganrog Automobile plant (TagAZ)
 
-Development of the management information system for a car production.
+Development of the management information system for a car production
+ as ERP system module.
 
 * Progress, MFG/Pro, MySQL, MS SQL, Perl, PHP, HTML, JavaScript
