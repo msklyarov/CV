@@ -87,8 +87,7 @@ ASP.NET MVC/Fullstack Developer | Access Softek, Inc
 Development of Admin tool part of Orpheus online banking system:
 http://orpheusbanking.com/
 
-* C#, ASP.NET MVC, WCF, MS SQL, LINQ, JavaScript, jQuery,
-CSS, Telerik Kendo UI Controls JS/MVC, NUnit, IIS
+* C#, ASP.NET MVC, WCF, MS SQL, LINQ, JavaScript, jQuery, CSS, Telerik Kendo UI Controls JS/MVC, NUnit, IIS
 ```
 ```
 August 2016 - December 2016
