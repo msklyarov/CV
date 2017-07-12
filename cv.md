@@ -74,7 +74,7 @@ Cloud platforms: Heroku, AWS Lambda
 
 ```
 May 2017 - Now
-JavaScript Developer | Freelancer, Upwork
+JavaScript Developer | Freelance, Upwork
 
 Development of ReactJS/Redux application for online examinations.
 
