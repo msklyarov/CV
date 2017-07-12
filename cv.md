@@ -34,12 +34,12 @@ I have a lot of experience of working with Agile methodology using JIRA and Redm
 
 Operating systems: Linux, Windows, Mac OS X, Android, iOS, FreeBSD, Solaris
 ##### Software languages:
- * JavaScript/ES6[strong knowlege] (jQuery, ReactJS, Redux, AngularJS, Telerik Kendo UI Controls)
- * node.js[strong knowlege] (Express,  StripeAPI, NightmareJS, CasperJS)
- * C#[strong knowlege] (LINQ, .NET Framework, ASP.NET MVC, WCF, Platron payment processing system)
+ * JavaScript/ES6 [strong knowlege] (jQuery, ReactJS, Redux, AngularJS, Telerik Kendo UI Controls)
+ * node.js [strong knowlege] (Express,  StripeAPI, NightmareJS, CasperJS)
+ * C# [strong knowlege] (LINQ, .NET Framework, ASP.NET MVC, WCF, Platron payment processing system)
  * C++ (STL, cocos2d-x, OpenGL)
- * PHP[strong knowlege] (Symfony, Doctrine, PHPUnit, Zend Framework, CURL)
- * SQL[strong knowlege] (MySQL, MS SQL)
+ * PHP [strong knowlege] (Symfony, Doctrine, PHPUnit, Zend Framework, CURL)
+ * SQL [strong knowlege] (MySQL, MS SQL)
  * Perl, Java
  * HTML, CSS, Bootstrap
 
