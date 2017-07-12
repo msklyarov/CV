@@ -112,7 +112,7 @@ October 2015 - January 2016
 Web Developer | FV
 
 Development of the dashboard with a business analytics for the online
-markets integration using ETL (ebay, amazon, etc.)
+markets integration using ETL (eBay, Amazon, etc.)
 
 * JavaScript/ES6, jQuery, AngularJS, PHP Zend Framework,
 WebAPI, REST
