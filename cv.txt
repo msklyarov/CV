@@ -14,15 +14,15 @@ To find remote Node.js/fullstack developer position that would utilize
 
 Summary:
 
-More than 18 years of successfull development of websites,
-database applications, APIs development and integration,
+More than 18 years of successful development of websites,
+database applications, APIs development, APIs integration,
 desktop applications and mobile games.
 
 It's important to me to finish tasks in time, pay attention to the
 details of the task and write clear, reliable and nice-looking code.
 I always use best practices and test my work carefully and thoroughly.
 I familiar with "code review" and "unit test coverage of a code"  techniques.
-I have a lot of experience of working with Agile methodology with JIRA and Redmine.
+I have a lot of experience of working with Agile methodology using JIRA and Redmine.
 
 Technologies:
 
@@ -144,7 +144,7 @@ https://afterlogic.com/webmail-client
 
 ------------------------------------------------------------
 April 2005 - January 2006
-EDMS developer | JSC TerraLink / KPO b.v.
+EDMS developer | TerraLink / KPO b.v.
 
 Development of Intranet applications linked to EDMS
 (Electronic Document Management System).
