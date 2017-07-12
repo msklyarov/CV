@@ -111,7 +111,7 @@ PHPUnit, Bootstrap
 October 2015 - January 2016
 Web Developer | FV
 
-Development of the dashboard with a business analitics for the online
+Development of the dashboard with a business analytics for the online
 markets integration using ETL (ebay, amazon, etc.)
 
 * JavaScript/ES6, jQuery, AngularJS, PHP Zend Framework,
