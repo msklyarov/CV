@@ -16,8 +16,8 @@ LinkedIn: https://www.linkedin.com/in/maxim-sklyarov-8b882489/
 
 #### Objectives:
 
-To find a remote Node.js/fullstack developer position that would utilize
- my skills in JavaScript/node.js/RestAPI/ReactJS/AngularJS/Redux
+To find a remote Node.js / fullstack developer position that would utilize
+ my skills in JavaScript / node.js / RestAPI / ReactJS / AngularJS / Redux
  (MERN/MEAN stack) development.
 
 #### Summary:
