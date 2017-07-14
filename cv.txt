@@ -20,9 +20,9 @@ database applications, APIs development, APIs integration,
 desktop applications and mobile games.
 
 It's important to me to finish tasks in time, pay attention to the
-details of the task and write clear, reliable and nice-looking code.
+details of the task and write a clear, reliable and nice-looking code.
 I always use best practices and test my work carefully and thoroughly.
-I familiar with "code review" and "unit test coverage of a code"  techniques.
+I am familiar with "code review" and "unit test coverage of a code"  techniques.
 I have a lot of experience of working with Agile methodology using JIRA and Redmine.
 
 Technologies:
@@ -44,7 +44,7 @@ Agile tools: JIRA, Redmine.
 Cloud platforms: Heroku, AWS Lambda
 
 Other skills:
- * Blind method of keyboard typing (both in Cyrillic and Latin keyboard layout)
+ * Blind method of keyboard typing (both in Cyrillic and Latin keyboard layouts)
 
 
 Certifications:
@@ -92,7 +92,7 @@ Scraping, ETL of online betting sites with NightmareJS.
 January 2016 - July 2016
 Web Developer | NJQ & Associates
 
-Development of accounting system.
+Development of an accounting system.
 
 * JavaScript, PHP, Symfony (MVC), Doctrine (ORM), TWIG,
 PHPUnit, Bootstrap
