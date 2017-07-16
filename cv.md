@@ -45,7 +45,7 @@ Operating systems: Linux, Windows, Mac OS X, Android, iOS, FreeBSD, Solaris
  * Perl, Java
  * HTML, CSS, Bootstrap
 
-Source control systems: GIT, SVN/CVS, MS Visual SourceSafe
+Source control systems: Git (with and without GitFlow), Mercurial, SVN/CVS, MS Visual SourceSafe
 
 DBMS: MongoDB, MySQL, MS SQL Server
 

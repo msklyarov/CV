@@ -37,7 +37,7 @@ Software languages:
  * SQL [strong knowlege] (MySQL, MS SQL)
  * Perl, Java
  * HTML, CSS, Bootstrap
-Source control systems: GIT, SVN/CVS, MS Visual SourceSafe
+Source control systems: Git (with and without GitFlow), Mercurial, SVN/CVS, MS Visual SourceSafe
 DBMS: MongoDB, MySQL, MS SQL Server
 Web Server Administration: Apache, Nginx, IIS
 Agile tools: JIRA, Redmine.
