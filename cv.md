@@ -111,7 +111,7 @@ Development of an accounting system.
 October 2015 - January 2016
 Web Developer | FV
 
-Development of the dashboard with a business analytics for the online
+Development of the dashboard with business analytics for online
 markets integration using ETL (Extract, Transform and Load) (eBay, Amazon, etc.)
 
 * JavaScript/ES6, jQuery, AngularJS, PHP Zend Framework, WebAPI, REST
