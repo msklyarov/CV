@@ -95,7 +95,7 @@ http://orpheusbanking.com/
 August 2016 - December 2016
 JavaScript Developer | Freelance
 
-Scraping, ETL of online betting sites with NightmareJS.
+Scraping, ETL (Extract, Transform and Load) of online betting sites with NightmareJS.
 
 * node.js, NightmareJS, jQuery, MongoDB
 ```
@@ -112,7 +112,7 @@ October 2015 - January 2016
 Web Developer | FV
 
 Development of the dashboard with a business analytics for the online
-markets integration using ETL (eBay, Amazon, etc.)
+markets integration using ETL (Extract, Transform and Load) (eBay, Amazon, etc.)
 
 * JavaScript/ES6, jQuery, AngularJS, PHP Zend Framework, WebAPI, REST
 ```
