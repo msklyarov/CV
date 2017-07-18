@@ -163,7 +163,7 @@ Automatization of a metal retail trade storehouse.
 
 ------------------------------------------------------------
 November 2002 - October 2004
-Web developer | Relmax, Inc.
+Web Developer | Relmax, Inc.
 
 Website development:
 Site rating and stats: http://www.relmaxtop.com
@@ -171,7 +171,7 @@ Job Search Site: http://www.bestnursejobs.com
 Sound record shop: http://www.asideupmusic.com
 Web traffic generator: http://www.easyhits4u.com
 
-* PHP, Perl, MySQL, DHTML, JavaScript, Apache
+* PHP, Perl, MySQL, XML, XSL, DHTML, JavaScript, Apache
 
 ------------------------------------------------------------
 November 2000 - October 2002
