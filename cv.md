@@ -153,7 +153,7 @@ https://afterlogic.com/webmail-client
 ```
 ```
 April 2005 - January 2006
-EDMS developer | TerraLink / KPO b.v.
+EDMS Developer | TerraLink / KPO b.v.
 
 Development of Intranet applications linked to EDMS (Electronic Document Management System).
 
