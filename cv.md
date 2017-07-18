@@ -183,7 +183,8 @@ Web traffic generator: http://www.easyhits4u.com
 November 2000 - October 2002
 Software Developer | Software Technologies
 Development of ESRI RouteMap IMS (Internet Mapping System):
-http://www.esri.com/routemapims
+http://www.esri.com/news/arcwatch/0508/xionetic.html
+http://downloads.esri.com/support/whitepapers/other_/routemapims_aug05.pdf
 
 * C++, MFC, WinAPI, Java, Swing, ASP(JavaScript), IIS
 ```
