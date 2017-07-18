@@ -155,8 +155,7 @@ https://afterlogic.com/webmail-client
 April 2005 - January 2006
 EDMS developer | TerraLink / KPO b.v.
 
-Development of Intranet applications linked to EDMS
-(Electronic Document Management System).
+Development of Intranet applications linked to EDMS (Electronic Document Management System).
 
 * ASP/ASP.NET, VB, Crystal Reports, MS SQL, Hummingbird Document Management System
 ```
@@ -192,8 +191,7 @@ http://www.esri.com/routemapims
 June 1998 - November 2000
 Software Developer | Taganrog Automobile plant (TagAZ)
 
-Development of the management information system for a car production
- as ERP system module.
+Development of the management information system for a car production as ERP system module.
 
 * Progress, MFG/Pro, MySQL, MS SQL, Perl, PHP, HTML, JavaScript
 ```
