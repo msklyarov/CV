@@ -63,14 +63,14 @@ Cloud platforms: Heroku, AWS Lambda
 |Name|Date|Authority|
 |----|----|---------|
 |C# 4.0 Specialist|2014-04-20|Retratech|
-|Javascript Programmer|1999-07-05|Tekmetrics/Brainbench|
-|Master C Programmer|1999-07-26|Tekmetrics/Brainbench|
-|Unix Administrator|1999-07-27|Tekmetrics/Brainbench|
-|Linux Administrator|1999-07-30|Tekmetrics/Brainbench|
-|C++ Programmer|1999-08-03|Tekmetrics/Brainbench|
-|Web Programmer|1999-08-04|Tekmetrics/Brainbench|
-|Perl Programmer|1999-08-09|Tekmetrics/Brainbench|
-|HTML Programmer|1999-08-17|Tekmetrics/Brainbench|
+|Javascript Programmer|1999-07-05|Tekmetrics / Brainbench|
+|Master C Programmer|1999-07-26|Tekmetrics / Brainbench|
+|Unix Administrator|1999-07-27|Tekmetrics / Brainbench|
+|Linux Administrator|1999-07-30|Tekmetrics / Brainbench|
+|C++ Programmer|1999-08-03|Tekmetrics / Brainbench|
+|Web Programmer|1999-08-04|Tekmetrics / Brainbench|
+|Perl Programmer|1999-08-09|Tekmetrics / Brainbench|
+|HTML Programmer|1999-08-17|Tekmetrics / Brainbench|
 
 #### Projects:
 
