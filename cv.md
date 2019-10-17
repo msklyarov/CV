@@ -16,13 +16,12 @@ LinkedIn: https://www.linkedin.com/in/maxim-sklyarov-8b882489/
 
 #### Objectives:
 
-To find a remote Node.js / fullstack developer position that would utilize
- my skills in JavaScript / node.js / RestAPI / ReactJS / AngularJS / Redux
- (MERN / MEAN stack) development.
+To find a remote React.js / Node.js / fullstack developer position that would utilize
+ my skills in React.js / Redux / node.js / RestAPI / JavaScript (MERN stack) development.
 
 #### Summary:
 
-More than 18 years of successful development of websites,
+More than 19 years of successful development of websites,
 database applications, APIs development, APIs integration,
 desktop applications and mobile games.
 
@@ -30,14 +29,14 @@ It's important to me to finish tasks in time, pay attention to the
 details of the task and write a clear, reliable and nice-looking code.
 I always use best practices and test my work carefully and thoroughly.
 I am familiar with "code review" and "unit test coverage of a code"  techniques.
-I have a lot of experience of working with Agile methodology using JIRA and Redmine.
+I have a lot of experience of working with Agile methodology using JIRA, Redmine and ASANA.
 
 #### Technologies:
 
 Operating systems: Linux, Windows, Mac OS X, Android, iOS, FreeBSD, Solaris
 ##### Software languages:
- * JavaScript/ES6 [strong knowlege] (jQuery, ReactJS, Redux, AngularJS, Telerik Kendo UI Controls)
- * node.js [strong knowlege] (Express,  StripeAPI, NightmareJS, CasperJS)
+ * JavaScript/ES6 [strong knowlege] (jQuery, React.js, Redux, Material UI, Bootstrap, Telerik Kendo UI Controls)
+ * node.js [strong knowlege] (Express.js,  StripeAPI, NightmareJS, CasperJS)
  * C# [strong knowlege] (LINQ, .NET Framework, ASP.NET MVC, WCF, Platron payment processing system)
  * C++ (STL, cocos2d-x, OpenGL)
  * PHP [strong knowlege] (Symfony, Doctrine, PHPUnit, Zend Framework, CURL)
@@ -47,13 +46,15 @@ Operating systems: Linux, Windows, Mac OS X, Android, iOS, FreeBSD, Solaris
 
 Source control systems: Git (with and without GitFlow), Mercurial, SVN/CVS, MS Visual SourceSafe
 
-DBMS: MongoDB, MySQL, MS SQL Server
+DBMS: PostgreSQL, MongoDB, MySQL, MS SQL Server
 
 Web Server Administration: Apache, Nginx, IIS
 
-Agile tools: JIRA, Redmine.
+Agile tools: JIRA, Redmine, ASANA.
 
-Cloud platforms: Heroku, AWS Lambda
+Cloud platforms: Heroku, AWS S3 & Cognito, Digital Ocean
+
+DevOps: Docker, Kubernetes
 
 #### Other skills:
  * Blind method of keyboard typing (both in Cyrillic and Latin keyboard layouts)
@@ -76,13 +77,35 @@ Cloud platforms: Heroku, AWS Lambda
 
 ```
 May 2017 - Now
-JavaScript Developer | Freelance, Upwork
+React.js / Node.js Top Rated developer | Freelance, Upwork
 
-Development of ReactJS / Redux application for online examinations.
+Development of Crypto Trading Bots.
+Development of logotip editor.
+Development of Auth0 application and deployment to Heroku.
+Development of management applications and microservices for SOAP APIs.
+Development of React.js / Redux application for online examinations.
 Scraping of Amazon data using headless Chrome (via TestCafe). 
 
-* node.js, Express, ReactJS / Redux, StripeAPI, CasperJS, MongoDB, Heroku,
-DevExpress TestCafe
+* Node.js, Express.js, ReactJS / Redux, StripeAPI, CasperJS, MySQL, MongoDB, Heroku,
+DevExpress TestCafe, Puppeteer, Auth0
+```
+```
+May 2018 - August 2018
+React.js / Node.js developer | JOLYY
+
+Development and customization of DApp application for crypto currency.
+
+* React.js, Redux, OriginProtocol
+
+```
+```
+October 2017 - November 2018
+Fullstack React.js / Node.js developer | Lexical Labs
+
+Development of ship freight investment system.
+
+* React.js, Redux, Redux Form, Material UI, Node.js, Express.js, PostgreSQL, Jest, Axios
+
 ```
 ```
 May 2014 - May 2017
