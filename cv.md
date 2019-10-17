@@ -23,13 +23,13 @@ To find a remote React.js / Node.js / fullstack developer position that would ut
 
 More than 19 years of successful development of websites,
 database applications, APIs development, APIs integration,
-desktop applications and mobile games.
+desktop applications, and mobile games.
 
 It's important to me to finish tasks in time, pay attention to the
-details of the task and write a clear, reliable and nice-looking code.
+details of the task and write clear, reliable and nice-looking code.
 I always use best practices and test my work carefully and thoroughly.
 I am familiar with "code review" and "unit test coverage of a code"  techniques.
-I have a lot of experience of working with Agile methodology using JIRA, Redmine and ASANA.
+I have a lot of experience working with Agile methodology using JIRA, Redmine and ASANA.
 
 #### Technologies:
 
@@ -86,14 +86,14 @@ Development of management applications and microservices for SOAP APIs.
 Development of React.js / Redux application for online examinations.
 Scraping of Amazon data using headless Chrome (via TestCafe). 
 
-* Node.js, Express.js, ReactJS / Redux, StripeAPI, CasperJS, MySQL, MongoDB, Heroku,
+* Node.js, Express.js, React.js / Redux, StripeAPI, CasperJS, MySQL, MongoDB, Heroku,
 DevExpress TestCafe, Puppeteer, Auth0
 ```
 ```
 May 2018 - August 2018
 React.js / Node.js developer | JOLYY
 
-Development and customization of DApp application for crypto currency.
+Development and customization of DApp application for cryptocurrency.
 
 * React.js, Redux, OriginProtocol
 
