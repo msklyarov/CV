@@ -109,7 +109,7 @@ Development of ship freight investment system.
 ```
 ```
 May 2014 - May 2017
-ASP.NET MVC/Fullstack Developer | Access Softek, Inc
+ASP.NET MVC / Fullstack Developer | Access Softek, Inc
 
 Development of Admin tool part of Orpheus online banking system:
 http://orpheusbanking.com/
@@ -145,7 +145,7 @@ markets integration using ETL (Extract, Transform and Load) (eBay, Amazon, etc.)
 November 2013 - January 2014
 Web Developer | TM Automatica
 
-Development of online e-commerce system for cinema tickets ordering.
+Development of an online e-commerce system for cinema tickets ordering.
 https://www.tmavt.ru/cinema/tm-cinema-view/
 
 * C#, LINQ, ASP.NET MVC, Entity Framework, JavaScript, jQuery, CSS, MS SQL, WebAPI, REST, IIS
@@ -154,7 +154,7 @@ https://www.tmavt.ru/cinema/tm-cinema-view/
 January 2013 - April 2014
 C++ Developer | Game Insight
 
-Game development for the mobile devices:
+Game development for mobile devices:
 
 Mirrors of Albion
 http://www.game-insight.com/en/games/mirrors-of-albion
@@ -217,7 +217,7 @@ http://downloads.esri.com/support/whitepapers/other_/routemapims_aug05.pdf
 June 1998 - November 2000
 Software Developer | Taganrog Automobile plant (TagAZ)
 
-Development of the management information system for a car production as ERP system module.
+Development of the management information system for car production as an ERP system module.
 
 * Progress, MFG/Pro, MySQL, MS SQL, Perl, PHP, HTML, JavaScript
 ```
