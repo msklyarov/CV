@@ -1,4 +1,4 @@
-![N|Solid](https://scontent-hel3-1.xx.fbcdn.net/v/t1.18169-9/16298424_369993500048408_1752260218444231963_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=9eIYFKSjVTAAX_peUIe&_nc_oc=AQndLi3UZOZM1UfO9_jayKLCdUn6Jh1FhhU18jVxmZU5gHmKEtPKSe5BzW-hBlthz-c&_nc_ht=scontent-hel3-1.xx&oh=00_AT8mxj_1f1l1d2cecfVyTP-gAbGggMaj5ZnPYtWd19M4rg&oe=62ABEC36)
+![N|Solid](https://sun2-12.userapi.com/s/v1/if1/SXUL8ffGua-V7cxk5YI_Ug-sobwxxJnUCI3_xQL5RDa4HrI2UflarGv6UfWnaT7shzbfpVSN.jpg?size=200x202&quality=96&crop=21,0,325,329&ava=1)
 
 #### Maxim Sklyarov
 
