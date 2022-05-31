@@ -75,8 +75,17 @@ DevOps: Docker, Kubernetes
 
 #### Projects:
 
+
 ```
-May 2017 - Now
+May 2020 - May 2022
+React.js / Node.js developer | WebWare Inc.
+
+Online shop application development
+
+* React.js, Redux, Node.js, OAuth, Stripe/PayPal API, MongoDb, Jade/Pug, Docker, AWS S3
+```
+```
+May 2017 - May 2020
 React.js / Node.js Top Rated developer | Freelance, Upwork
 
 Development of Crypto Trading Bots.
