@@ -21,7 +21,7 @@ To find a remote React.js / Node.js / fullstack developer position that would ut
 
 #### Summary:
 
-More than 19 years of successful development of websites,
+More than 20 years of successful development of websites,
 database applications, APIs development, APIs integration,
 desktop applications, and mobile games.
 
@@ -77,7 +77,7 @@ DevOps: Docker, Kubernetes
 
 
 ```
-May 2020 - May 2022
+May 2020 - Now
 React.js / Node.js developer | WebWare Inc.
 
 Online shop application development
