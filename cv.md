@@ -16,8 +16,8 @@ LinkedIn: https://www.linkedin.com/in/maxim-sklyarov-8b882489/
 
 #### Objectives:
 
-To find a remote React.js / Node.js / fullstack developer position that would utilize
- my skills in React.js / Redux / node.js / RestAPI / JavaScript (MERN stack) development.
+To find a remote blockchain developer or React.js / Node.js / fullstack developer position that would utilize
+ my skills in React.js / Redux / node.js / blockchain development.
 
 #### Summary:
 
@@ -75,9 +75,16 @@ DevOps: Docker, Kubernetes
 
 #### Projects:
 
-
 ```
-May 2020 - Now
+July 2022 - Now
+Node.js Blockchain Developer | UBIX.Network
+
+Smart contracts profiling, Smart contracts development, DAG (Directed acyclic graph) memory usage optimization, Staking development
+
+* Node.js, Docker, PostgreSQL
+```
+```
+May 2020 - June 2022
 React.js / Node.js developer | WebWare Inc.
 
 Online shop application development
